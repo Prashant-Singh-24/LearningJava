@@ -1,0 +1,10 @@
+package com.apnacollege;
+
+public class FirstJavaProject {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
