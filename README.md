@@ -1,3 +1,3 @@
 # Learning Java 
-# Using eclips as a code editer 
+# Using Eclipse IDE
 # Following Complete Reference 
